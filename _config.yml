@@ -1,0 +1,57 @@
+# Set this website's info
+# Change "coffeebank" to your GitHub username
+# Change "moonrise" to your repository name
+url: "https://Shreyas-ITB.github.io"
+baseurl: "/ChillClubOG"
+siteIcon: /media/logo.png
+siteYear: 2022
+siteFooterlink: /about
+showinSearchEngines: true
+googleAnalyticsID: G-YR0MBKS65W
+
+
+# Set basic server info
+serverName: Minearth SMP
+serverDescription: A Minecraft server where we have lots of fun and build things!
+serverIP: mc.manpreet.tk:47521
+useBedrockForOnlineStatus: false
+
+
+# Discord information
+discordInvite: https://dsc.gg/chillclubop
+discordServerID: 939017734300266547
+discordChannelID: 1046353483131011122
+
+
+# # Navbar Links at the top of the page (uncomment "siteNav" to use)
+# #   name - The title on the navbar
+# #   url - The link it should go to (for example, if you have "maps.md" file, put "maps")
+# #   newtab - Whether link should open in new tab
+# 
+siteNav:
+  - name: Server Map
+    url: map
+    newtab: true
+  - name: Screenshots
+    url: screenshots
+  - name: About
+    url: about
+  
+
+
+# Don't change anything below here, these are defaults set by GitHub Pages:
+# ======
+theme: minima
+# plugins:
+#   - jekyll-feed
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
